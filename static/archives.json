@@ -3,8 +3,8 @@
     {
       "id": "6",
       "number": "006",
-      "information": "",
-      "date": "",
+      "information": "at<br />HEFT<br />Gakugei-daigaku, Meguro, Tokyo",
+      "date": "2018.11.24-25",
       "externalUrl": "",
       "member": [
         "alumican",
@@ -21,12 +21,11 @@
     {
       "id": "5",
       "number": "005",
-      "information": "",
-      "date": "",
+      "information": "at<br />The Fleming House<br />Kiyosumi-Shirakawa, Tokyo",
+      "date": "2017.9.16-18",
       "externalUrl": "",
       "member": [
         "alumican",
-        "hys",
         "koiwahara",
         "miyamoto",
         "shiiho",
@@ -39,9 +38,9 @@
     {
       "id": "4",
       "number": "004",
-      "information": "at<br />The Fleming House<br />Kiyosumi-Shirakawa, Tokyo",
-      "date": "2017.9.16-18",
-      "externalUrl": "http://unframe.jp/2017",
+      "information": "at<br />PANOF N STUDIO<br />Nakameguro, Tokyo",
+      "date": "2016.11.4-6",
+      "externalUrl": "",
       "member": [
         "alumican",
         "hys",
@@ -56,8 +55,8 @@
     {
       "id": "3",
       "number": "003",
-      "information": "",
-      "date": "",
+      "information": "at<br />IKEJIRI INSTITUTE OF DESIGN<br />Ikejiri, Tokyo",
+      "date": "2015.9.21-23",
       "externalUrl": "",
       "member": [
         "alumican",
@@ -74,8 +73,8 @@
     {
       "id": "2",
       "number": "002",
-      "information": "",
-      "date": "",
+      "information": "at<br />PANOF N STUDIO<br />Nakameguro, Tokyo",
+      "date": "2014.9.13-15",
       "externalUrl": "",
       "member": [
         "alumican",
@@ -94,7 +93,7 @@
       "number": "001",
       "information": "at<br>PANOF E STUDIO<br>Ebisu, Tokyo",
       "date": "2013.4.27-5.3",
-      "externalUrl": "http://unframe.jp/2013",
+      "externalUrl": "",
       "member": [
         "shiiho",
         "gunji",
