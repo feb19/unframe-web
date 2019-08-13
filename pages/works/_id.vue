@@ -45,10 +45,12 @@ export default class WorkShowPage extends Vue {
     }
   }
 
+  head() {
+    return {
+      'title': `${this.$data.work.name} | unframe exhibitions 007`
+    }
+  }
   async fetch ({context, params}) {
-    // console.log(params['id'])
-    // this.title = params['id']
-
   }
 }
 </script>
