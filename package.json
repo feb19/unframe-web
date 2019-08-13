@@ -1,0 +1,25 @@
+{
+  "name": "unframe",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nuxt start",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.8.1",
+    "ts-node": "^8.3.0",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.8.1",
+    "babel-polyfill": "^6.26.0",
+    "nuxt-property-decorator": "^2.3.0",
+    "typescript": "^3.5.3",
+    "vue-property-decorator": "^8.2.1"
+  }
+}
