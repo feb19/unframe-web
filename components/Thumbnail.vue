@@ -13,7 +13,7 @@ export default class Thumbnail extends Vue {
   name
 
   get thumbnail(): string {
-    return `${this.name}`
+    return `/thumbnails${this.name.split('.')[0]}.png`
   }
 }
 </script>

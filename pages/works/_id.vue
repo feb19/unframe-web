@@ -47,7 +47,10 @@ export default class WorkShowPage extends Vue {
 
   head() {
     return {
-      'title': `${this.$data.work.name} | unframe exhibitions 007`
+      'title': `${this.$data.work.name} | unframe exhibitions 007`,
+      'meta': [
+        { hid: 'og:image', property: 'og:image', content: `https://unframe.jp/${this.$data.work.photoUrl}` }
+      ]
     }
   }
   async fetch ({context, params}) {
