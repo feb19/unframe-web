@@ -23,7 +23,8 @@ export default class Thumbnail extends Vue {
   width: 110px;
   height: 110px;
   overflow: hidden;
-  margin: 0 0.1em 0.1em 0;
+  margin: 0;
+  /* margin: 0 0.1em 0.1em 0; */
   float: left;
 }
 .Thumbnail img {
