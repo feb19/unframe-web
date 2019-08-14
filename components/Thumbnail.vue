@@ -1,6 +1,6 @@
 <template>
   <div class="Thumbnail">
-    <img :src="thumbnail" />
+    <img :src="thumbnail" loading="lazy" />
   </div>
 </template>
 
