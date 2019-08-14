@@ -3,7 +3,7 @@
     <iframe
       ref="texture"
       class="BackgroundTexture__texture"
-      src=""
+      src="/bg.html"
       frameborder="0"
       webkitAllowFullScreen mozallowfullscreen allowFullScreen />
   </div>
