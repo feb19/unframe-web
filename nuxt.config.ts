@@ -1,5 +1,15 @@
 import NuxtConfiguration from '@nuxt/config'
 import { MetaInfo } from 'vue-meta';
+
+const dynamicRoutes = function() {
+  const json = require('./static/works.json')
+  let routes: string[] = []
+  json.works.map(work => {
+    routes.push(`/works/${work.id}`)
+  })
+  return routes
+}
+
 const meta: MetaInfo = {
   script: [
     // { src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCjrzcRsK0N8WrWBqvmukjmS_Ip3lZQNcg', type: "text/javascript" }
@@ -40,6 +50,9 @@ const config: NuxtConfiguration = {
   ],
   build: {
     transpile: [/^vue2-google-maps($|\/)/]
+  },
+  generate: {
+    routes: dynamicRoutes
   }
 }
 
