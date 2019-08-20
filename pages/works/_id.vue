@@ -49,7 +49,8 @@ export default class WorkShowPage extends Vue {
     return {
       'title': `${this.$data.work.name} | unframe exhibitions 007`,
       'meta': [
-        { hid: 'og:image', property: 'og:image', content: `https://unframe.jp/${this.$data.work.photoUrl}` }
+        { hid: 'twitter:image', property: 'twitter:image', content: `https://unframe.jp${this.$data.work.photoUrl}` },
+        { hid: 'og:image', property: 'og:image', content: `https://unframe.jp${this.$data.work.photoUrl}` }
       ]
     }
   }

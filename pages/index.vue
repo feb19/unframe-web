@@ -48,7 +48,16 @@ export default class IndexPage extends Vue {
     store.commit('setShareHashTags', 'unframe')
     store.commit('setShareDescription', 'Unframe Exhibitions')
   }
-  
+ 
+  head() {
+    return {
+      'title': `unframe exhibitions 007`,
+      'meta': [
+        { hid: 'twitter:image', property: 'twitter:image', content: `https://unframe.jp/ogp.jpg` },
+        { hid: 'og:image', property: 'og:image', content: `https://unframe.jp/ogp.jpg` }
+      ]
+    }
+  } 
   
   async asyncData({context, params}) {
     let archives: IArchive | undefined
