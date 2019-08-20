@@ -24,16 +24,20 @@ const meta: MetaInfo = {
     { name: 'format-detection', content: 'telephone=no' },
     { name: 'keywords', content: 'unframe, exhibition, design, engineer, programing, デザイン, 映像, プログラミング, インスタレーション, 展示' },
     { name: 'viewport', content: 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no' },
+    { hid: 'description', name: 'description', content: '2019.10.13-14' },
 
     { name: 'apple-mobile-web-app-capable', content: 'yes' },
     { name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
     { name: 'apple-mobile-web-app-title', content: 'unframe' },
     { name: 'msapplication-TileImage', content: '/favicons/apple-touch-icon-180x180.png' },
     { name: 'msapplication-TileColor', content: '#000000' },
+    { hid: 'og:title', property: 'og:title', content: 'unframe exhibitions 007' },
+    { hid: 'og:description', property: 'og:description', content: '2019.10.13-14' },
     { hid: 'og:image', property: 'og:image', content: 'https://unframe.jp/ogp.jpg' },
     { hid: 'twitter:image', property: 'twitter:image', content: 'https://unframe.jp/ogp.jpg' },
-    { hid: 'twitter:card', property: 'twitter:card', content: 'summary' },
-    { hid: 'twitter:title', property: 'twitter:title', content: 'unframe exhibitions' }
+    { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image' },
+    { hid: 'twitter:title', property: 'twitter:title', content: 'unframe exhibitions 007' },
+    { hid: 'twitter:description', property: 'twitter:description', content: '2019.10.13-14' }
   ],
   link: [
     { rel: 'shortcut icon', href: '/favicons/favicon.ico' },

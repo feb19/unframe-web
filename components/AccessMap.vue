@@ -14,7 +14,10 @@
         mapTypeControl: false,
         styles: mapStyle
       }">
-      
+      <GmapMarker 
+        :position="{lat:35.6339758, lng:139.6893952}"
+        icon="https://unframe.jp/mapicon.png"
+      />
     </GmapMap>
   </div>
 </template>
