@@ -10,7 +10,7 @@
       写真OK / SNS OK / ハッシュタグ #unframe
     </p>
     <p>
-      会場　LEERE STUDIO（リアレス スタジオ）<br>
+      会場　LEERES STUDIO（リアレス スタジオ）<br>
       〒153–0065 東京都目黒区中町2-49-11<br>
       2-49-11 NAKACHO MEGUROKU, TOKYO 153–0065<br>
       祐天寺　徒歩 6 分

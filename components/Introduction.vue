@@ -1,7 +1,7 @@
 <template>
   <div class="Introduction">
     <p>
-      この秋、祐天寺 LEERE STUDIO（リアレス スタジオ） を会場に「unframe」プロジェクトの第 7 回展示を開催いたします。
+      この秋、祐天寺 LEERES STUDIO（リアレス スタジオ） を会場に「unframe」プロジェクトの第 7 回展示を開催いたします。
     </p>
     <p>
       「unframe」はインタラクティブ・グラフィック・映像領域を中心に活躍するクリエイターが、<br class="for-pc" />
