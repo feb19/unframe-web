@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "number": "7",
+      "id": "collectivebehavior",
+      "name": "collective behavior",
+      "creator": "masanori miyamoto / you tanaka",
+      "photoUrl": "/007/collectivebehavior.jpg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
+      "number": "7",
+      "id": "graduallysuicide",
+      "name": "gradually suicide",
+      "creator": "cyocun / masanori miyamoto / you tanaka",
+      "photoUrl": "/007/graduallysuicide.jpg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
+      "number": "7",
+      "id": "into_a_doze",
+      "name": "Into a doze",
+      "creator": "yukiya okuda",
+      "photoUrl": "/007/into_a_doze.jpg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
+      "number": "7",
+      "id": "jibun_wo_terasu_souchi",
+      "name": "自分を照らすための装置",
+      "creator": "Kei Tominaga, Yuta Masuda and Takuto Onishi",
+      "photoUrl": "/007/jibun_wo_terasu_souchi.jpg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
+      "number": "7",
+      "id": "streaming_sampler",
+      "name": "Streaming Sampler",
+      "creator": "hisayoshi hayashi",
+      "photoUrl": "/007/streaming_sampler.jpeg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
+      "number": "7",
+      "id": "taisai_lights",
+      "name": "Taisai Lights",
+      "creator": "nobuhiro takahashi",
+      "photoUrl": "/007/taisai_lights.jpeg",
+      "externalUrl": "",
+      "description": ""
+    },
+    {
       "number": "6",
       "id": "frame_no",
       "name": "frame no.",
