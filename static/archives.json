@@ -1,6 +1,22 @@
 {
   "archives": [
     {
+      "id": "7",
+      "number": "007",
+      "information": "at<br />LEERES STUDIO<br />Yutenji, Meguro, Tokyo",
+      "date": "2019.10.14-15",
+      "externalUrl": "",
+      "member": [
+        "alumican",
+        "hys",
+        "tmo",
+        "koiwahara",
+        "miyamoto",
+        "takahashi",
+        "you"
+      ]
+    },
+    {
       "id": "6",
       "number": "006",
       "information": "at<br />HEFT<br />Gakugei-daigaku, Meguro, Tokyo",

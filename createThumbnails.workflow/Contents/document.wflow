@@ -51,7 +51,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>fileNames</key>
-					<array/>
+					<array>
+						<string>~/git/unframe/static/007</string>
+					</array>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SpecifiedFiles</string>
@@ -100,12 +102,10 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>345.000000:291.000000</string>
+				<string>345.000000:239.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Get Specified Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -226,12 +226,10 @@
 						<string>1</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>345.000000:393.000000</string>
+				<string>345.000000:341.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Copy Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -328,12 +326,10 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>345.000000:492.000000</string>
+				<string>345.000000:440.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Get Folder Contents.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -516,12 +512,10 @@
 						<string>5</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>345.000000:694.000000</string>
+				<string>345.000000:642.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Crop Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -619,12 +613,10 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>345.000000:797.000000</string>
+				<string>345.000000:745.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Change Type of Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -634,33 +626,33 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>78F5982E-9959-4AF0-A5C8-0B2973160DC9</key>
+		<key>33AC9BC8-702D-4929-8F56-D9F725CD642F</key>
+		<dict>
+			<key>from</key>
+			<string>C7DB38DA-2301-464C-9DD4-F86601F3E8FE - C7DB38DA-2301-464C-9DD4-F86601F3E8FE</string>
+			<key>to</key>
+			<string>A243ED57-C476-42DD-839C-BC8ED30594CF - A243ED57-C476-42DD-839C-BC8ED30594CF</string>
+		</dict>
+		<key>49AD2FF8-F390-482B-A6B9-B26010228A05</key>
 		<dict>
 			<key>from</key>
 			<string>C1B4927D-A16D-4833-9C04-371E71A1E5A7 - C1B4927D-A16D-4833-9C04-371E71A1E5A7</string>
 			<key>to</key>
 			<string>F4B2A630-5074-436B-8BFF-002DBDC39488 - F4B2A630-5074-436B-8BFF-002DBDC39488</string>
 		</dict>
-		<key>A84D0C6F-A2BE-4DCA-8C7D-EE7FB5BCACA4</key>
+		<key>5EFAFE88-EDD8-404D-A96E-4F455E3C8767</key>
 		<dict>
 			<key>from</key>
 			<string>33B1C78C-D6C9-43BA-9DA6-DE6EA485D970 - 33B1C78C-D6C9-43BA-9DA6-DE6EA485D970</string>
 			<key>to</key>
 			<string>C7DB38DA-2301-464C-9DD4-F86601F3E8FE - C7DB38DA-2301-464C-9DD4-F86601F3E8FE</string>
 		</dict>
-		<key>AE92F511-E078-4BC9-8AA4-4671FF115CAD</key>
+		<key>62B217A5-8B62-4EBA-A5B2-99C48CD874E0</key>
 		<dict>
 			<key>from</key>
 			<string>F4B2A630-5074-436B-8BFF-002DBDC39488 - F4B2A630-5074-436B-8BFF-002DBDC39488</string>
 			<key>to</key>
 			<string>33B1C78C-D6C9-43BA-9DA6-DE6EA485D970 - 33B1C78C-D6C9-43BA-9DA6-DE6EA485D970</string>
-		</dict>
-		<key>D39DE781-D45F-4EF3-B4E1-C573F674F43F</key>
-		<dict>
-			<key>from</key>
-			<string>C7DB38DA-2301-464C-9DD4-F86601F3E8FE - C7DB38DA-2301-464C-9DD4-F86601F3E8FE</string>
-			<key>to</key>
-			<string>A243ED57-C476-42DD-839C-BC8ED30594CF - A243ED57-C476-42DD-839C-BC8ED30594CF</string>
 		</dict>
 	</dict>
 	<key>variables</key>
