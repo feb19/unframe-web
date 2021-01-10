@@ -8,6 +8,7 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
+  "private": true,
   "author": "",
   "license": "ISC",
   "dependencies": {
